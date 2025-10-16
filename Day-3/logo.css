@@ -1,0 +1,21 @@
+h1{
+    font-family: Arial Black;
+    color: #ffa511;
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 55px;
+    font-weight: 900;
+    line-height: 1.5;
+    text-decoration: teal double underline;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px #000000;
+    margin: 20px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 3px solid #ffa511;
+    
+
+    
+
+    
+}
