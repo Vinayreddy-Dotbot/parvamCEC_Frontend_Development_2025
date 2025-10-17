@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Add Function Example</h2>
+    <button onclick="showSum()">add 5+8</button>
+    <p id="sumresult"></p>
+    <script>
+        function add(a,b){
+            return a+b
+            document.getElementById("sumresult").innerText="The sum is: "+sum;
+        }
+        function showSum(){
+            let sum=add(5,8);
+            document.getElementById("sumresult").innerText="The sum is: "+sum;
+        }
+        
+
+    </script>
+</body>
+</html>
