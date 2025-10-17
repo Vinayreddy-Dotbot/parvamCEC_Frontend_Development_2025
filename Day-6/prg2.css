@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    margin-top: 20%;
+    padding: 20px;
+    background-color: lightgreen;
+    color: blue;
+    border-style: solid;
+    border-radius: 10x;
+    box-shadow: 5px 10px 18px #888888;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    border-width: 10px;
+    margin-bottom: 10px;
+    border-color: black;
+}
+.form-control{
+    color: blue;
+}
